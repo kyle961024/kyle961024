@@ -5,8 +5,8 @@
 ## 關於我
 - 系級：智運
 - 正在學習：Python、Github
-- 感興趣的主題：Github
-- 這學期的目標：學習Github
+- 感興趣的主題：看球賽
+- 這學期的目標：學會使用Github
 
 - ## 我的作品
 - [中原智運](https://icbd.cycu.edu.tw/)
